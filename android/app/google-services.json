@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "612068810639",
+    "firebase_url": "https://findmyphone-16a4f-default-rtdb.firebaseio.com",
+    "project_id": "findmyphone-16a4f",
+    "storage_bucket": "findmyphone-16a4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612068810639:android:2045c86ee0eecc44c135fa",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WXrvPyw4eFmhrQG_qwZPUcUWBWECAP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
